@@ -1,0 +1,8 @@
+
+{
+  "name": "MAROC TRUCK - Systèmes Électriques & Diagnostic",
+  "description": "Site professionnel pour MAROC TRUCK, spécialiste du diagnostic électronique et des systèmes électriques pour poids lourds au Maroc.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
